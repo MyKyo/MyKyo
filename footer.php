@@ -1,3 +1,3 @@
 <footer>
-    <P>SMEKDA Coding - Design By M Rio Febrian</P>
+    <P>SMEKDA Coding - Design By MyKyo</P>
 </footer>
